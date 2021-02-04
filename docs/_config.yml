@@ -1,7 +1,7 @@
-repository: {lukemshepherd}/London_COVID_maps
+repository: lukemshepherd/London_COVID_maps
 output: web
-topnav_title: {London_COVID_maps}
-site_title: {London_COVID_maps}
+topnav_title: London_COVID_maps
+site_title: London_COVID_maps
 company_name: Luke M Shepherd
 description: A description of your project
 # Set to false to disable KaTeX math
@@ -17,7 +17,7 @@ port: 4000
 # the port where the preview is rendered.
 
 exclude:
-  - .idea/
+  - .idea/s
   - .gitignore
   - vendor
  
