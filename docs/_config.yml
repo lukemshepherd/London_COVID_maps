@@ -1,4 +1,4 @@
-repository: {lukemshepherd}/{London_COVID_maps}
+repository: {lukemshepherd}/London_COVID_maps
 output: web
 topnav_title: {London_COVID_maps}
 site_title: {London_COVID_maps}
