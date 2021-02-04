@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/lukemshepherd/London_COVID_maps/tree/{branch}/
+      external_url: https://github.com/lukemshepherd/London_COVID_maps/tree/branch/
 
 #Topnav dropdowns
 topnav_dropdowns:
