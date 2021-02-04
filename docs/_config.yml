@@ -61,4 +61,4 @@ sidebars:
 permalink: pretty
 
 theme: jekyll-theme-cayman
-baseurl: /{London_COVID_maps}/
+baseurl: /London_COVID_maps/

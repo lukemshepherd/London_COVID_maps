@@ -13,6 +13,6 @@ entries:
       title: COVID 19 Risk Inequatliy in London
       url: core.html
     output: web
-    title: '{London_COVID_maps}'
+    title: London_COVID_maps
   output: web
   title: Sidebar
